@@ -1,7 +1,7 @@
 {
-  "name": "fs-app-template",
+  "name": "prizm-awp",
   "version": "2.0.0",
-  "description": "Some boilerplate code to get you started - get shakin'!",
+  "description": "Async week project prizm uses three.js technology.",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
